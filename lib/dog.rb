@@ -13,7 +13,7 @@ fido.methods
 
 class Dog
   def bark
-    puts "woof"
+    puts 
   end
 end 
 fido.bark
